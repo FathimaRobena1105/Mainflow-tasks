@@ -70,7 +70,7 @@ y_pred = best_model.predict(X_test_scaled)
 accuracy = accuracy_score(y_test, y_pred)
 print(f"Accuracy of the model after tuning: {accuracy}")
 
---------------------------------------------------------------------------------
+
 
 #Section 2 - Fraud Detection
 
